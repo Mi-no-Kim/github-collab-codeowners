@@ -4,4 +4,3 @@
 *.yml                                   @wight3856
 *.yaml                                  @wight3856
 /src/main/resources/                    @aspomn-sub
-config[1-9].yml                         @aspomn-sub
